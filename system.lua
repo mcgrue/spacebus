@@ -1,6 +1,6 @@
 require "vx"
 
-function draw_odometer( number, basex, basey, im )
+function draw_odometer( number, basex, basey, im, im_white )
     local x, y
     
     for i = 0, 13 do
@@ -9,7 +9,10 @@ function draw_odometer( number, basex, basey, im )
         
         x = x + (i*7)
         im:Blit(x, y)
-    end 
+    end
+    
+    im_white:Blit(x+7, y)
+    
 end
 
 function autoexec()
@@ -18,6 +21,7 @@ function autoexec()
     local joystick = vx.Image('assets/joystick.gif')
     local joystick_down = vx.Image('assets/joystick2.gif')
     local numbers_black = vx.Image('assets/blacknumbers.gif')
+    local numbers_white = vx.Image('assets/whitenumbers.gif')
     
     local orig_bus_x = -32
     local orig_bus_y = 0
@@ -56,7 +60,7 @@ function autoexec()
             joy_x = joy_x + 32
         end
         
-        draw_odometer( 1234567890123.5, odo_x, odo_y, numbers_black)
+        draw_odometer( 1234567890123.5, odo_x, odo_y, numbers_black, numbers_white)
         bus_hud:Blit(bus_x, bus_y)
         
         if vx.key["Enter"].pressed then

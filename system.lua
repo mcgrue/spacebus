@@ -1,18 +1,24 @@
 require "vx"
 
+function extract_significant_digit( x, place )
+    return  math.floor(x / 10^place) % 10
+end
+
 function draw_odometer( number, basex, basey, im, im_white )
-    local x, y
+    local x, y, n
     
     for i = 0, 13 do
+        n = 13 - i
         x = basex
         y = basey
         
         x = x + (i*7)
+        y = y - (extract_significant_digit(number, n)*12)
         im:Blit(x, y)
+        
     end
-    
+
     im_white:Blit(x+7, y)
-    
 end
 
 function autoexec()
@@ -60,7 +66,7 @@ function autoexec()
             joy_x = joy_x + 32
         end
         
-        draw_odometer( 1234567890123.5, odo_x, odo_y, numbers_black, numbers_white)
+        draw_odometer( 1020304050607.8, odo_x, odo_y, numbers_black, numbers_white)
         bus_hud:Blit(bus_x, bus_y)
         
         if vx.key["Enter"].pressed then

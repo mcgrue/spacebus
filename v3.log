@@ -5612,3 +5612,2646 @@ vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx
 	no file '/usr/local/lib/lua/5.1/loadall.so'
 vx/_vergeClock imported
 vx/_vergeMusic imported
+Exiting: Error loading system.lua: [string "system.lua"]:4: ')' expected near 'div'
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error when calling 'autoexec':  attempt to perform arithmetic on local 'x' (a nil value)
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in (function)
+    File '[string "system.lua"]', line 18, in global draw_odometer
+    File '[string "system.lua"]', line 66, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error when calling 'autoexec':  attempt to perform arithmetic on local 'x' (a nil value)
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in (function)
+    File '[string "system.lua"]', line 18, in global draw_odometer
+    File '[string "system.lua"]', line 66, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error when calling 'autoexec':  attempt to perform arithmetic on local 'x' (a nil value)
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in (function)
+    File '[string "system.lua"]', line 18, in global draw_odometer
+    File '[string "system.lua"]', line 66, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error when calling 'autoexec':  attempt to perform arithmetic on local 'x' (a nil value)
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in (function)
+    File '[string "system.lua"]', line 18, in global draw_odometer
+    File '[string "system.lua"]', line 66, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error when calling 'autoexec':  attempt to perform arithmetic on local 'x' (a nil value)
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in (function)
+    File '[string "system.lua"]', line 18, in global draw_odometer
+    File '[string "system.lua"]', line 66, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error loading system.lua: [string "system.lua"]:12: unexpected symbol near '='
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error when calling 'autoexec':  attempt to perform arithmetic on a string value
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in (function)
+    File '[string "system.lua"]', line 18, in global draw_odometer
+    File '[string "system.lua"]', line 72, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error when calling 'autoexec':  attempt to perform arithmetic on a string value
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in (function)
+    File '[string "system.lua"]', line 18, in global draw_odometer
+    File '[string "system.lua"]', line 72, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: -234567890123.38
+1: -34567890122.265
+2: -4567890111.1543
+3: -567890000.04321
+4: -67888888.93211
+5: -7877777.8210988
+6: -766666.71098765
+7: 1144444.3901235
+8: 12345555.401235
+9: 123456665.51235
+10: 1234567866.6235
+11: 12345678897.735
+12: 123456789011.85
+13: 1234567890123.5
+Exiting: Error when calling 'autoexec': Problem invoking Exit: Function expects 1 arguments. (Got 0)
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in (function)
+    File '[C]', line -1, in field Exit
+    File '[string "system.lua"]', line 22, in global draw_odometer
+    File '[string "system.lua"]', line 72, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: -234567890123.38
+1: -34567890122.265
+2: -4567890111.1543
+3: -567890000.04321
+4: -67888888.93211
+5: -7877777.8210988
+6: -766666.71098765
+7: 1144444.3901235
+8: 12345555.401235
+9: 123456665.51235
+10: 1234567866.6235
+11: 12345678897.735
+12: 123456789011.85
+13: 1234567890123.5
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: 0.12345678901235
+1: 1.2345678901235
+2: 2.345678901235
+3: 3.45678901235
+4: 4.5678901235001
+5: 5.678901235
+6: 6.7890123499965
+7: 7.890123500023
+8: 8.901234999299
+9: 9.0123499929905
+10: 0.12350010871887
+11: 1.2350006103516
+12: 2.3500061035156
+13: 3.5
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: 0.01123580000007
+1: 0.1123580000007
+2: 1.123580000007
+3: 1.23580000007
+4: 2.3580000007
+5: 3.5800000070001
+6: 5.8000000699994
+7: 8.0000006999908
+8: 7.0000533014536e-06
+9: 7.0000067353249e-05
+10: 0.00069999694824219
+11: 0.0069999694824219
+12: 0.069999694824219
+13: 0.69999694824219
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: 10
+1: 9.9999999999999
+2: 9.9999999999991
+3: 9.9999999999909
+4: 9.9999999999127
+5: 9.9999999990687
+6: 9.9999999906868
+7: 9.999999910593
+8: 9.9999990463257
+9: 9.9999904632568
+10: 9.9999084472656
+11: 9.9990234375
+12: 9.990234375
+13: 9.90625
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: 1e-13
+1: 1e-12
+2: 1e-11
+3: 1e-10
+4: 1e-09
+5: 1e-08
+6: 1e-07
+7: 1e-06
+8: 1e-05
+9: 0.0001
+10: 0.001
+11: 0.01
+12: 0.1
+13: 1
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: Error when calling 'autoexec':  attempt to call global 'int' (a nil value)
+  Traceback (most recent call first):
+    File '[string "function __err(e)..."]', line 34, in global int
+    File '[string "system.lua"]', line 4, in global extract_significant_digit
+    File '[string "system.lua"]', line 18, in global draw_odometer
+    File '[string "system.lua"]', line 72, in (function)
+
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: 0
+1: 0
+2: 0
+3: 0
+4: 0
+5: 0
+6: 0
+7: 0
+8: 0
+9: 0
+10: 0
+11: 0
+12: 0
+13: 1
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: 0
+1: 1
+2: 0
+3: 0
+4: 0
+5: 0
+6: 0
+7: 0
+8: 0
+9: 0
+10: 0
+11: 0
+12: 0
+13: 0
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+0: 0
+1: 1
+2: 0
+3: 2
+4: 0
+5: 3
+6: 0
+7: 4
+8: 0
+9: 5
+10: 0
+11: 6
+12: 0
+13: 7
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+Exiting: blerg
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported
+vx/Image imported
+vx/Font imported
+vx/Socket imported
+vx/Sound imported
+vx/SoundChannel has error on requirement vx/init.lua:45: module 'vx/SoundChannel' not found:
+	no field package.preload['vx/SoundChannel']
+	no file './vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/share/lua/5.1/vx/SoundChannel/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.lua'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel.lua'
+	no file 'vx/SoundChannel/init.lua'
+	no file 'vx/SoundChannel\init.lua'
+	no vpk'd module 'vx/SoundChannel'
+	no file './vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/vx/SoundChannel.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Song imported
+vx/_vergeMap imported
+vx/_vergeMapLayer has error on requirement vx/init.lua:45: module 'vx/_vergeMapLayer' not found:
+	no field package.preload['vx/_vergeMapLayer']
+	no file './vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer.lua'
+	no file 'vx/_vergeMapLayer/init.lua'
+	no file 'vx/_vergeMapLayer\init.lua'
+	no vpk'd module 'vx/_vergeMapLayer'
+	no file './vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapLayer.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeMapZone has error on requirement vx/init.lua:45: module 'vx/_vergeMapZone' not found:
+	no field package.preload['vx/_vergeMapZone']
+	no file './vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone.lua'
+	no file 'vx/_vergeMapZone/init.lua'
+	no file 'vx/_vergeMapZone\init.lua'
+	no vpk'd module 'vx/_vergeMapZone'
+	no file './vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMapZone.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/Entity imported
+vx/File imported
+vx/_vergeCamera imported
+vx/_vergeMouseInput imported
+vx/_vergeMouseButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeMouseButtonInput' not found:
+	no field package.preload['vx/_vergeMouseButtonInput']
+	no file './vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput.lua'
+	no file 'vx/_vergeMouseButtonInput/init.lua'
+	no file 'vx/_vergeMouseButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeMouseButtonInput'
+	no file './vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeMouseButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeKeyboardInput imported
+vx/_vergeJoystickInput imported
+vx/_vergeJoystickDirectionInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickDirectionInput' not found:
+	no field package.preload['vx/_vergeJoystickDirectionInput']
+	no file './vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput.lua'
+	no file 'vx/_vergeJoystickDirectionInput/init.lua'
+	no file 'vx/_vergeJoystickDirectionInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickDirectionInput'
+	no file './vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickDirectionInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeJoystickButtonInput has error on requirement vx/init.lua:45: module 'vx/_vergeJoystickButtonInput' not found:
+	no field package.preload['vx/_vergeJoystickButtonInput']
+	no file './vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/share/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.lua'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput.lua'
+	no file 'vx/_vergeJoystickButtonInput/init.lua'
+	no file 'vx/_vergeJoystickButtonInput\init.lua'
+	no vpk'd module 'vx/_vergeJoystickButtonInput'
+	no file './vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/vx/_vergeJoystickButtonInput.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+vx/_vergeClock imported
+vx/_vergeMusic imported

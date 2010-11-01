@@ -5,7 +5,7 @@ function extract_significant_digit( x, place )
 end
 
 function draw_odometer( number, basex, basey, im, im_white )
-    local x, y, n
+    local x, y, n, fract 
     
     for i = 0, 13 do
         n = 13 - i
@@ -14,6 +14,10 @@ function draw_odometer( number, basex, basey, im, im_white )
         
         x = x + (i*7)
         y = y - (extract_significant_digit(number, n)*12)
+        
+        fract = extract_significant_digit(number, n-1) * 10 + extract_significant_digit(number, n-2)
+        y = y - (fract / 8)
+        
         im:Blit(x, y)
     end
 
@@ -24,7 +28,7 @@ function autoexec()
     vx.SetAppName("Space Bus")
 
     local bus_hud = vx.Image('assets/bus.gif')
-    local starfield = vx.Image('assets/space.png')
+    local starfield = vx.Image('assets/space2.gif')
     local joystick = vx.Image('assets/joystick.gif')
     local joystick_down = vx.Image('assets/joystick2.gif')
     local numbers_black = vx.Image('assets/blacknumbers.gif')
@@ -49,16 +53,14 @@ function autoexec()
     while true do
         vx.screen:RectFill(0, 0, vx.screen.width, vx.screen.height, vx.RGB(0, 0, 255))
         
-        starfield:Blit(0, 0)
+        bus_x = orig_bus_x + math.random(-2,2)
+        bus_y = orig_bus_y + math.random(-2,2)
         
-        bus_x = orig_bus_x
-        bus_y = orig_bus_y
+        joy_x = orig_joy_x + bus_x
+        joy_y = orig_joy_y + bus_y
         
-        joy_x = orig_joy_x
-        joy_y = orig_joy_y
-        
-        odo_x = bus_x + original_odo_x
-        odo_y = bus_y + original_odo_y
+        odo_x = original_odo_x + bus_x
+        odo_y = original_odo_y + bus_y
         
         if vx.key["Up"].pressed then
             joy_y = joy_y - 32
@@ -71,6 +73,7 @@ function autoexec()
         end
         
         draw_odometer( distance, odo_x, odo_y, numbers_black, numbers_white)
+        starfield:Blit(0, 0)
         bus_hud:Blit(bus_x, bus_y)
         
         if vx.key["Enter"].pressed then

@@ -53,8 +53,13 @@ function autoexec()
     while true do
         vx.screen:RectFill(0, 0, vx.screen.width, vx.screen.height, vx.RGB(0, 0, 255))
         
-        bus_x = orig_bus_x + math.random(-2,2)
-        bus_y = orig_bus_y + math.random(-2,2)
+        bus_x = orig_bus_x
+        bus_y = orig_bus_y
+        
+        if vx.key["Enter"].pressed then
+            bus_x = bus_x + math.random(-2,2)
+            bus_y = bus_y + math.random(-2,2)
+        end
         
         joy_x = orig_joy_x + bus_x
         joy_y = orig_joy_y + bus_y
